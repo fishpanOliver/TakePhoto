@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TakePhoto</string>
+    <string name="main_btn">按钮点击</string>
+    <string name="main_ed_hint">请输入内容</string>
+</resources>
